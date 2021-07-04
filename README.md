@@ -1,0 +1,1 @@
+### DjangoAuthenticationApp [![Build Status](https://travis-ci.com/redan684/djangoauthapp.svg?branch=project-setup)](https://travis-ci.com/redan684/djangoauthapp)
