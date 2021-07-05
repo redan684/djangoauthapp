@@ -1,1 +1,1 @@
-### DjangoAuthenticationApp [![Build Status](https://travis-ci.com/redan684/djangoauthapp.svg?branch=project-setup)](https://travis-ci.com/redan684/djangoauthapp)
+### DjangoAuthenticationApp [![Build Status](https://travis-ci.com/redan684/djangoauthapp.svg?branch=project-setup)](https://travis-ci.com/redan684/djangoauthapp)  [![codecov](https://codecov.io/gh/redan684/djangoauthapp/branch/project-setup/graph/badge.svg?token=3KER248KDK)](https://codecov.io/gh/redan684/djangoauthapp)
